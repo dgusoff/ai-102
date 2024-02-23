@@ -32,6 +32,10 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 * Manage private communications
 
 # Implement decision support solutions (10–15%)
+Learing plan 
+
+https://learn.microsoft.com/en-us/training/paths/develop-decision-support/
+
 
 ## Create decision support solutions for data monitoring and content delivery
 * Implement a data monitoring solution with Azure AI Metrics Advisor
