@@ -42,6 +42,16 @@ https://learn.microsoft.com/en-us/training/paths/develop-decision-support/
 * Implement a text moderation solution with Azure AI Content Safety
 * Implement an image moderation solution with Azure AI Content Safety
 
+https://learn.microsoft.com/en-us/training/modules/classify-and-moderate-text-with-azure-content-moderator/2-overview-of-text-moderation
+
+https://learn.microsoft.com/en-us/training/modules/classify-and-moderate-text-with-azure-content-moderator/3-exercise-create-moderator-service
+
+https://learn.microsoft.com/en-us/training/modules/classify-and-moderate-text-with-azure-content-moderator/4-exercise-use-the-api-console
+
+quick start for text moderation  application: https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text?tabs=visual-studio%2Cwindows&pivots=programming-language-csharp
+
+image moderation quick start https://learn.microsoft.com/en-us/azure/ai-services/content-safety/studio-quickstart?source=recommendations
+
 # Implement computer vision solutions (15–20%)
 ## Analyze images
 * Select visual features to meet image processing requirements
